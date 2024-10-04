@@ -17,9 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_DO_NOT_EDIT","order":4,"path":"objects/obj_DO_NOT_EDIT/obj_DO_NOT_EDIT.yy",},
     {"name":"obj_berry","order":1,"path":"objects/obj_berry/obj_berry.yy",},
     {"name":"obj_bomb","order":2,"path":"objects/obj_bomb/obj_bomb.yy",},
+    {"name":"obj_DO_NOT_EDIT","order":4,"path":"objects/obj_DO_NOT_EDIT/obj_DO_NOT_EDIT.yy",},
     {"name":"spr_angrybox","order":2,"path":"sprites/spr_angrybox/spr_angrybox.yy",},
     {"name":"spr_berry","order":3,"path":"sprites/spr_berry/spr_berry.yy",},
     {"name":"spr_bomb","order":1,"path":"sprites/spr_bomb/spr_bomb.yy",},

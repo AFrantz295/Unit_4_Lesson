@@ -30,14 +30,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Unit_4_Lesson",
   "resources":[
     {"id":{"name":"obj_angrybox","path":"objects/obj_angrybox/obj_angrybox.yy",},},
-    {"id":{"name":"obj_DO_NOT_EDIT","path":"objects/obj_DO_NOT_EDIT/obj_DO_NOT_EDIT.yy",},},
     {"id":{"name":"obj_berry","path":"objects/obj_berry/obj_berry.yy",},},
     {"id":{"name":"obj_bomb","path":"objects/obj_bomb/obj_bomb.yy",},},
+    {"id":{"name":"obj_DO_NOT_EDIT","path":"objects/obj_DO_NOT_EDIT/obj_DO_NOT_EDIT.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_angrybox","path":"sprites/spr_angrybox/spr_angrybox.yy",},},
     {"id":{"name":"spr_berry","path":"sprites/spr_berry/spr_berry.yy",},},
